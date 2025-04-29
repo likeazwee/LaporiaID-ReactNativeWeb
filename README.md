@@ -65,6 +65,7 @@ npm run dev
 
 # Buka di browser
 http://localhost:3000
+```
 🛠️ Roadmap Fitur (Coming Soon)
 🔔 Notifikasi email / push untuk update laporan
 
