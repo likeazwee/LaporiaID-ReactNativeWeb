@@ -1,34 +1,56 @@
 # LaporiaID 🚨
-LaporiaID adalah platform Laporan Pengaduan Online yang memudahkan masyarakat untuk melaporkan berbagai permasalahan secara cepat, transparan, dan terorganisir.
+
+LaporiaID adalah platform **Laporan Pengaduan Online** yang memudahkan masyarakat untuk melaporkan berbagai permasalahan secara cepat, transparan, dan terorganisir.  
 Website ini dirancang untuk mempercepat penanganan pengaduan publik dengan sistem yang ramah pengguna, responsif, dan modern.
 
-🔗 Live Website: https://laporia-id.vercel.app/
+🔗 **Live Website**: [https://laporia-id.vercel.app/](https://laporia-id.vercel.app/)
 
-# ✨ Fitur Utama
-📝 Buat Pengaduan Online
-Pengguna dapat mengisi form laporan dengan cepat dan mudah.
+---
 
-📂 Manajemen Pengaduan
-Admin dapat melihat, memproses, dan memberikan update pada laporan yang masuk.
+## ✨ Fitur Utama
 
-📊 Status Laporan Real-Time
-Pantau perkembangan laporan Anda dengan sistem tracking yang transparan.
+### Untuk Pengguna
+- 📝 **Buat Pengaduan Online**  
+  Isi formulir laporan dengan cepat dan mudah melalui platform.
 
-📱 Desain Responsif
-Akses LaporiaID dari berbagai perangkat: desktop, tablet, hingga smartphone.
+- 📰 **Melihat Berita dan Informasi Terkini**  
+  Dapat mengakses berita atau pengumuman terbaru terkait layanan pengaduan.
 
-🔒 Keamanan Data
-Menjaga kerahasiaan data pribadi pelapor dengan standar keamanan terbaik.
+- 📊 **Melacak Status Laporan**  
+  Pantau perkembangan dan status laporan Anda secara real-time melalui dashboard pengguna.
 
-# 🚀 Teknologi yang Digunakan
-React.js
+### Untuk Admin
+- 📂 **Manajemen Laporan**  
+  Melihat, memproses, dan mengelola semua laporan yang masuk.
 
-Vercel — Deployment cepat, otomatis, dan gratis.
+- 📈 **Statistik Laporan**  
+  Melihat analisa dan statistik laporan berdasarkan berbagai kategori (status, jenis laporan, dsb.).
 
-# 📚 Cara Instalasi Lokal
-bash
-Copy
-Edit
+- 🌐 **Statistik Pengunjung Website**  
+  Monitoring jumlah pengunjung dan aktivitas pengguna di website.
+
+- 👥 **Manajemen Data Pengguna & Pekerja**  
+  Lihat, edit, tambah, dan hapus data pengguna dan data pekerja.
+
+- 🛠️ **CRUD Data Master**  
+  Melakukan Create, Read, Update, dan Delete terhadap data laporan, berita, pengguna, dan pekerja.
+
+- 🔒 **Keamanan Data**  
+  Menjaga kerahasiaan dan integritas data pribadi seluruh pengguna.
+
+---
+
+## 🚀 Teknologi yang Digunakan
+- **React.js** — Framework JavaScript modern untuk membangun UI.
+- **Vercel** — Platform hosting untuk deployment cepat dan efisien.
+
+*(Opsional jika digunakan: Firebase, Supabase, Tailwind CSS, dsb.)*
+
+---
+
+## 📚 Cara Instalasi Lokal
+
+```bash
 # Clone repository ini
 git clone https://github.com/username/laporiaid.git
 
@@ -54,13 +76,15 @@ http://localhost:3000
 
 🧩 Integrasi API Pemerintah Lokal
 
+📥 Export laporan ke PDF
+
+💬 Chat / messaging internal antara pelapor dan admin
+
 🙌 Kontribusi
 LaporiaID terbuka untuk kontribusi dari komunitas!
-Jika Anda ingin menambahkan fitur, memperbaiki bug, atau meningkatkan sistem, silakan fork repository ini dan buat pull request.
+Jika Anda ingin menambahkan fitur, memperbaiki bug, atau meningkatkan sistem, silakan fork repository ini, buat branch baru, dan ajukan pull request.
 
 🧑‍💻 Developer
 Built with ❤️ by [Tim LaporiaID].
 
-LaporiaID - Suaramu Didengar, Aksimu Nyata.
-
-
+LaporiaID — Suaramu Didengar, Aksimu Nyata.
