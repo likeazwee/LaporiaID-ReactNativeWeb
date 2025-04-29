@@ -47,8 +47,6 @@ Website ini dirancang untuk mempercepat penanganan pengaduan publik dengan siste
 - **React.js** — Framework JavaScript modern untuk membangun UI.
 - **Vercel** — Platform hosting untuk deployment cepat dan efisien.
 
-*(Opsional jika digunakan: Firebase, Supabase, Tailwind CSS, dsb.)*
-
 ---
 
 ## 📚 Cara Instalasi Lokal
