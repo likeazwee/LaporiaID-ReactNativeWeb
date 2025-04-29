@@ -13,6 +13,9 @@ Website ini dirancang untuk mempercepat penanganan pengaduan publik dengan siste
 - 📝 **Buat Pengaduan Online**  
   Isi formulir laporan dengan cepat dan mudah melalui platform.
 
+- 📷 **Lampirkan Foto Kejadian**
+- Dapat melampirkan foto bukti atau foto kejadian disaat membuat sebuah laporan.
+
 - 📰 **Melihat Berita dan Informasi Terkini**  
   Dapat mengakses berita atau pengumuman terbaru terkait layanan pengaduan.
 
@@ -66,21 +69,6 @@ npm run dev
 # Buka di browser
 http://localhost:3000
 ```
-🛠️ Roadmap Fitur (Coming Soon)
-🔔 Notifikasi email / push untuk update laporan
-
-🗺️ Integrasi dengan Maps untuk pinpoint lokasi kejadian
-
-📸 Upload foto/video bukti kejadian
-
-🌐 Multi-bahasa (Indonesia & English)
-
-🧩 Integrasi API Pemerintah Lokal
-
-📥 Export laporan ke PDF
-
-💬 Chat / messaging internal antara pelapor dan admin
-
 🙌 Kontribusi
 LaporiaID terbuka untuk kontribusi dari komunitas!
 Jika Anda ingin menambahkan fitur, memperbaiki bug, atau meningkatkan sistem, silakan fork repository ini, buat branch baru, dan ajukan pull request.
