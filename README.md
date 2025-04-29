@@ -4,7 +4,7 @@ Website ini dirancang untuk mempercepat penanganan pengaduan publik dengan siste
 
 🔗 Live Website: https://laporia-id.vercel.app/
 
-✨ Fitur Utama
+# ✨ Fitur Utama
 📝 Buat Pengaduan Online
 Pengguna dapat mengisi form laporan dengan cepat dan mudah.
 
@@ -20,16 +20,12 @@ Akses LaporiaID dari berbagai perangkat: desktop, tablet, hingga smartphone.
 🔒 Keamanan Data
 Menjaga kerahasiaan data pribadi pelapor dengan standar keamanan terbaik.
 
-🚀 Teknologi yang Digunakan
-Next.js — Framework React untuk pengembangan web modern.
-
-Tailwind CSS — Styling cepat dan responsif.
+# 🚀 Teknologi yang Digunakan
+React.js
 
 Vercel — Deployment cepat, otomatis, dan gratis.
 
-Firebase / Supabase / (opsional) — Backend untuk autentikasi & penyimpanan data (sebutkan kalau ada).
-
-📚 Cara Instalasi Lokal
+# 📚 Cara Instalasi Lokal
 bash
 Copy
 Edit
